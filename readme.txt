@@ -1,5 +1,21 @@
-<h1 align="center">Hi 👋, I'm Prisum</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm PrisumPrisum</h1>
+<h3 align="center">A younh passionate frontend developer from Canada</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prisumdevolopes" alt="prisumdevolopes" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/prisumdev" target="blank"><img src="https://img.shields.io/twitter/follow/prisumdev?logo=twitter&style=for-the-badge" alt="prisumdev" /></a> </p>
+
+- 🔭 I’m currently working on **AI Web Assistant**
+
+- 🌱 I’m currently learning **Next.JS, Cursor**
+
+- 👨‍💻 All of my projects are available at [prisumdev.vercel.app](prisumdev.vercel.app)
+
+- 💬 Ask me about **React and Python**
+
+- 📫 How to reach me **prisum@rockethosting.xyz**
+
+- 📄 Know about my experiences [prisumdev.vercel.app](prisumdev.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
